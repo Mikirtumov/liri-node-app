@@ -1,6 +1,6 @@
 # liri-node-app
 
-**Creator**: "Sergo Mikirtumov"
+**Creator**: `Sergo Mikirtumov`
 
 **Created on**: `NOV 2nd 2019`
 
