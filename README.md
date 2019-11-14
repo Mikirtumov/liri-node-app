@@ -11,7 +11,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 ## HOW TO USE LIRI
 
-[Liri-node Demo](https://drive.google.com/open?id=1M41X1NJlyNhAmhsNUfqCUoXiWDMWRtpQ)
+[Liri-node Demo](/demo.gif)
 
 ## TECHNOLOGIES USED
 * Javascript
@@ -24,6 +24,5 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 * APIs used:
     * Bands in Town
     * OMDB
-    * Spotyfy
 * Git
 * GitHub
