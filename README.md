@@ -11,7 +11,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 ## HOW TO USE LIRI
 
-[Liri-node Demo](demo.gif)
+![](demo.gif)
 
 ## TECHNOLOGIES USED
 * Javascript
